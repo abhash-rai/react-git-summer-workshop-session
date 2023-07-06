@@ -4,4 +4,4 @@ This is the body text
 
 This is feature 1 text.
 
-This line conflicts with the master branch line.
+Keep this line when conflict arises.
