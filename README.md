@@ -2,4 +2,4 @@
 
 This is the body
 
-This is feature 1
+This is feature 1 text.
